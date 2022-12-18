@@ -30,7 +30,7 @@ const Hero = () => {
         <p className="font-poppins xl:text-lg">
           A Passionate, Innovative and agile person, looking for{" "}
           <span className="border-b-2 border-[#413F42]">
-            Sales opportunities in India, Middle East and East Africa.
+            Sales opportunities in India, Middle East, USA and East Africa.
           </span>{" "}
         </p>
         <div className="translate-all duration-[2000ms] ease-in-out flex flex-col space-y-6 items-start">
