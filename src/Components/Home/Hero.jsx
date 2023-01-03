@@ -17,7 +17,7 @@ const Hero = () => {
       >
         <div className="translate-all duration-[2000ms] ease-in-out flex flex-col space-y-2">
           <span className="text-2xl font-poppins font-bold lg:text-4xl xl:text-6xl">
-            BFSI Sales Leader.
+            BFSI Sales Leader,
           </span>
 
           <h6 className="text-sm font-bold font-poppins p-1 lg:text-lg xl:text-xl">
