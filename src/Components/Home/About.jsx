@@ -47,7 +47,7 @@ const About = () => {
             qualifications.
           </p>
           <p>
-            • Complete Knowledge of account management cycle for BFSI NPA, NACH,
+            Complete Knowledge of account management cycle for BFSI NPA, NACH,
             Aadhar Masking, Q-Verifier, Digital KYC, LOS, Analytics, CMS, CMM,
             Kiosk/Queue Management, Digital Transformation, HSM, Aadhar Data
             Vault, Cheque Transaction System, Finacle services , Chabot, CRM,
