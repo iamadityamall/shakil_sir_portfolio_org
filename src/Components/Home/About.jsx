@@ -35,15 +35,25 @@ const About = () => {
         <div className="transition-all duration-500 ease-in-out flex flex-col space-y-2 font-poppins text-sm md:text-justify md:p-2 xl:p-0 xl:text-lg">
           <p>
             10+ years of expertise in selling software technologies to Banking
-            and Financial Institutions, Large Enterprises clients.
+            and Financial Institutions, Large Enterprises clients.• 9+ years of
+            expertise in the Indian, Middle Eastern, and East Africa markets
+            selling software technologies to Banking and Financial Institutions,
+            Large Enterprises clients. Experience with the most recent
+            technologies, a consultative approach to market account management,
+            a deep understanding of account handling, lead generation,
+            opportunity management, project management to closing, and a strong
+            ability to explain complex solutions in a straightforward manner
+            with a track record of consistently hitting goals are all desirable
+            qualifications.
           </p>
           <p>
-            Experience with the most recent technologies, a consultative
-            approach to market account management, a deep understanding of
-            account handling, lead generation, opportunity management, project
-            management to closing, and a strong ability to explain complex
-            solutions in a straightforward manner with a track record of
-            consistently{" "}
+            • Complete Knowledge of account management cycle for BFSI NPA, NACH,
+            Aadhar Masking, Q-Verifier, Digital KYC, LOS, Analytics, CMS, CMM,
+            Kiosk/Queue Management, Digital Transformation, HSM, Aadhar Data
+            Vault, Cheque Transaction System, Finacle services , Chabot, CRM,
+            Payment solutions, API Management, Business Process Automation,
+            Robotic Process Automation, Core Banking Integration, HRMS, E-Scan,
+            Cyber Security.{" "}
             {/* <span className="text-gray-800 font-semibold">
               <a
                 href="https://linkedin.com/in/adityaharendramall/"
