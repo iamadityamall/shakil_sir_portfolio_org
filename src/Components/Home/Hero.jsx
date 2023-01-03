@@ -17,7 +17,7 @@ const Hero = () => {
       >
         <div className="translate-all duration-[2000ms] ease-in-out flex flex-col space-y-2">
           <span className="text-2xl font-poppins font-bold lg:text-4xl xl:text-6xl">
-            Expert in BFSI, Sales and Pre sales.
+            BFSI Sales Leader.
           </span>
 
           <h6 className="text-sm font-bold font-poppins p-1 lg:text-lg xl:text-xl">
@@ -28,7 +28,7 @@ const Hero = () => {
           </h6>
         </div>
         <p className="font-poppins xl:text-lg">
-          A Passionate, Innovative and agile person, looking for{" "}
+          A Passionate, Innovative and agile person,{" "}
           <span className="border-b-2 border-[#413F42]">
             Sales opportunities in India, Middle East, USA and East Africa.
           </span>{" "}

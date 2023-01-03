@@ -47,13 +47,13 @@ const About = () => {
             qualifications.
           </p>
           <p>
-            Complete Knowledge of account management cycle for BFSI NPA, NACH,
-            Aadhar Masking, Q-Verifier, Digital KYC, LOS, Analytics, CMS, CMM,
-            Kiosk/Queue Management, Digital Transformation, HSM, Aadhar Data
-            Vault, Cheque Transaction System, Finacle services , Chabot, CRM,
-            Payment solutions, API Management, Business Process Automation,
-            Robotic Process Automation, Core Banking Integration, HRMS, E-Scan,
-            Cyber Security.{" "}
+            Complete Knowledge of account management cycle for BFSI Blockchain,
+            NPA, NACH, Aadhar Masking, Q-Verifier, Digital KYC, LOS, Analytics,
+            CMS, CMM, Kiosk/Queue Management, Digital Transformation, HSM,
+            Aadhar Data Vault, Cheque Transaction System, Finacle services ,
+            Chabot, CRM, Payment solutions, API Management, Business Process
+            Automation, Robotic Process Automation, Core Banking Integration,
+            HRMS, E-Scan, Cyber Security.{" "}
             {/* <span className="text-gray-800 font-semibold">
               <a
                 href="https://linkedin.com/in/adityaharendramall/"
